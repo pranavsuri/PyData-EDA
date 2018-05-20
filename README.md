@@ -11,7 +11,7 @@ The idea behind the talk was to explain the ideology behind Exploratory Data Ana
 
 The talk included a lot of content from the following projects:
 
-1. [Investigating Factors Affecting Wine Quality](https://github.com/pranavsuri/PyData-EDA/tree/master/Investigating%20Factors%20Affecting%20Red%20Wine%20Quality): This project investigates a dataset using EDA to find chemical properties that affect red wine quality.
+1. [Investigating Factors Affecting Wine Quality](https://github.com/pranavsuri/PyData-EDA/tree/master/Investigating%20Factors%20Affecting%20Red%20Wine%20Quality): This project investigates a dataset using EDA to find chemical properties that affect red wine quality. You can follow this project on my [blog](https://pranavsuri.com/2018/02/whats-in-a-good-red-wine/) as well. 
 
 2. [Identifying Fraud from Enron Email Dataset](https://github.com/pranavsuri/PyData-EDA/tree/master/Identifying%20Fraud%20from%20Enron%20Email%20Dataset): This project includes a section which uses EDA to remove outliers.
 
