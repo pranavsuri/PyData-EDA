@@ -1,0 +1,9 @@
+# Repository consists primarily of
+# iPython Notebooks, Python Scripts & RMD/R files.
+
+* linguist-vendored
+*.py linguist-vendored=false
+*.ipynb linguist-vendored=false
+*.R linguist-vendored=false
+*.rmd linguist-vendored=false
+*.rmd linguist-language=R
