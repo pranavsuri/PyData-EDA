@@ -16,7 +16,7 @@ The talk included a lot of content from the following projects:
 2. [Identifying Fraud from Enron Email Dataset](https://github.com/pranavsuri/PyData-EDA/tree/master/Identifying%20Fraud%20from%20Enron%20Email%20Dataset): This project includes a section which uses EDA to remove outliers.
 
 ## Message
-The meet-up was a great experience as I got meet some amazing people. I certainly look forward to collaborating on a new project. One of the ideas I have is to explore datasets on different beverages (such as [white wine](https://archive.ics.uci.edu/ml/datasets/wine+quality)) or maybe some food items.
+The meet-up was a great experience as I met some amazing people. I certainly look forward to collaborating on new projects. One of the ideas I have is to explore datasets on different beverages (such as [white wine](https://archive.ics.uci.edu/ml/datasets/wine+quality)) or maybe some food items.
 
 ## License
 [MIT License © Pranav Suri](/License.txt)
